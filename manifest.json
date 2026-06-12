@@ -8,7 +8,10 @@
   "background_color": "#0a1520",
   "theme_color": "#c9a227",
   "lang": "es",
-  "categories": ["sports", "news"],
+  "categories": [
+    "sports",
+    "news"
+  ],
   "icons": [
     {
       "src": "icons/icon-192.png",
@@ -23,7 +26,6 @@
       "purpose": "any maskable"
     }
   ],
-  "screenshots": [],
   "shortcuts": [
     {
       "name": "Grupos",
